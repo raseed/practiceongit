@@ -1,2 +1,4 @@
 hello world
-i just join as new user
+i just join git as new user
+it is date today 25/02/2019 start today to learn all command and use in real
+time 
