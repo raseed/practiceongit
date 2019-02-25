@@ -12,6 +12,20 @@ he is lean
 they are lean
 she is lean
 we are lean
+
+i lose 
+he loses
+they lose
+we lose
+                            // Structure Number 2//
+
+
+		i konw how to do my work
+		you know how to behave with others
+		they know how to behave with me
+                he know how to melt the sugar
+		she know how to obey the rule
+		they know how to lift the water can
 //use of should//
 
 //past//
